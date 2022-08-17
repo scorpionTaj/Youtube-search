@@ -32,10 +32,6 @@ module.exports = API_KEY;
 * Styled Components
 * Youtube API V3 Data
 
-## Author
-
-**germancutraro**
-
 made with [@bauticutraro](https://github.com/bauticutraro)
 
 ## Idea
