@@ -6,24 +6,16 @@
 
 ## Installation
 
-Install all dependencies
+Install all dependencies:
 
 ```
 npm install
 ```
 
-Run app
+Run app:
 
 ```
 npm start
-```
-
-**Create an API KEY**, then create a `key.js` file inside the `src` folder, and write this:
-
-```javascript
-const API_KEY = 'YOUR_PERSONAL_KEY';
-
-module.exports = API_KEY;  
 ```
 
 ## Built With
@@ -31,9 +23,8 @@ module.exports = API_KEY;
 * React.js
 * Styled Components
 * Youtube API V3 Data
-
-made with [@bauticutraro](https://github.com/bauticutraro)
-
 ## Idea
 
 * The idea was taken from Stephen Grider React.js course, then i tried to styled the app to make it more real like Youtube, so thanks to Stephen! 
+
+![image](https://user-images.githubusercontent.com/96800858/185126099-546337d3-5b76-4d34-89aa-b8049742a03b.png)
