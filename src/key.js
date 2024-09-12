@@ -1,3 +1,5 @@
-const API_KEY = 'AIzaSyCBFvzXwHNW_fYgH6DYPwRQ-wBBIEC91lI';
+require('dotenv').config();
 
-module.exports = API_KEY;  
+const API_KEY = process.env.API_KEY;
+
+module.exports = API_KEY;
